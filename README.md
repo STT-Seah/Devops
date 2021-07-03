@@ -57,13 +57,4 @@
     - [What is Agile?](https://www.youtube.com/watch?v=fDLuObNgPBM)
     
        
-    **My Portfolio**
-    - [Scratch: I LOVE YOU Clicker Game](https://scratch.mit.edu/projects/518970274)
-
-    - [1st cs50 Web Assignment](https://cs50xcoursewebsite--sttseah.repl.co/)
-    
-    - [Q2 Show and Tell Github Pages & Mark Down Website](https://stt-seah.github.io/Fintech-Learners/)
-    
-    - [Q2 Show and Tell Github Pages & Mark Down Github](https://github.com/STT-Seah/Fintech-Learners)
-    
-    - [Q2 Show and Tell Github Actions CI/CD](https://github.com/STT-Seah/mygitactions)
+   
