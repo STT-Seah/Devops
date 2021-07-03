@@ -34,8 +34,7 @@
 - **Videos on DevOps Related Topics**
 
 
-     ![image of DevOps](https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png)
-     
+
     
 
     - [What is DevOps?](https://www.youtube.com/watch?v=aFWi8ToAjpU)
