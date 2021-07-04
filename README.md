@@ -5,7 +5,7 @@
 
 ![image of Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4)
 
-###Github Actions CI/CD - Everything you need to know to get started
+**Github Actions CI/CD - Everything you need to know to get started**
 
 In today's fast-paced environment, it's absolutely essential that we can automate the testing and delivery of our code.
 
@@ -25,6 +25,7 @@ The Super Linter is a *source code repository* that is packaged into a Docker co
 This allows for any repository on GitHub.com to call the Super Linter and start utilizing its benefits.
 
 The Super Linter will currently support a lot of languages and more coming in the future.
+
 
 **How it works**
 
