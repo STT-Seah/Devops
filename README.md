@@ -93,3 +93,5 @@ At that point, the Super Linter will run again and validate the updated code and
   Checkout code
   
   Run Super linter against it
+  
+  It will show the logs.
