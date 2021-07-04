@@ -101,3 +101,5 @@ At that point, the Super Linter will run again and validate the updated code and
   ![image of Github Super Linter Log](https://user-images.githubusercontent.com/17579601/87601404-45751200-c6b2-11ea-9d5b-03014e2ce4a6.jpg)
   
   **This Superlinter can be use for downstream.**
+  
+  **If you have a servers monitor the Github API and check the status of the repository. If the status is green check mark, it automatically go to that repository and pull down the code to implemented into staging or production or whatever you want.**
