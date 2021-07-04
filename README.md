@@ -69,7 +69,7 @@ At that point, the Super Linter will run again and validate the updated code and
   
   Warning: if workflow is not triggering which means the format or spelling error to name the workflow file
   
-  The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to check our code and than run superlinter against it to make sure it conforms to the linting standards.
+  The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to first check our code and than run superlinter against it to make sure it conforms to the linting standards.
   
   
   5.YAML
