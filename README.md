@@ -91,3 +91,5 @@ At that point, the Super Linter will run again and validate the updated code and
   If you click this url: ghcr.io/github/super-linter:v3.14.5 you can see the actual code of the super linter job.
   
   Checkout code
+  
+  Run Super linter against it
