@@ -107,3 +107,5 @@ At that point, the Super Linter will run again and validate the updated code and
   7.Push python code to run & test any error for python code
   
   8.Create new file (paste the python code) the file as main.py (scroll down and commit it) and let the linter run it
+  
+  9.Refresh the page to check
