@@ -85,3 +85,5 @@ At that point, the Super Linter will run again and validate the updated code and
   (You can see set up job. (Doing Github Action Stuff setting up everything up)
   
   Scroll down it will show you it is pulling the code from github superlinter (Pull ghcr.io/github/super-linter:v3.14.5 -this url version can be different from your github account)
+  
+  Once it's done. It's going to run our code in the repository and it's going to run the super linter again. (This is pretty cool it's telling you behind the scenes which code repository if pulled from.)
