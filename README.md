@@ -54,3 +54,7 @@ At that point, the Super Linter will run again and validate the updated code and
 **Videos to create Github Actions CI/CD Q2 Show & Tell**
 
 - [Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
+
+**Instructions**
+  1.Create new repository and named it
+  2.Click
