@@ -3,10 +3,6 @@
 
 ## Welcome to Fintech Learners Pages For Non Tech
 
-![image of Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4)
-
-**Github Actions CI/CD - Everything you need to know to get started**
-
 In today's fast-paced environment, it's absolutely essential that we can automate the testing and delivery of our code.
 
 That's where GitHub actions comes in.
@@ -25,11 +21,6 @@ The Super Linter is a *source code repository* that is packaged into a Docker co
 This allows for any repository on GitHub.com to call the Super Linter and start utilizing its benefits.
 
 The Super Linter will currently support a lot of languages and more coming in the future.
-
-
-**How it works**
-
-When you’ve set your repository to start running this action, any time you open a pull request, it will start linting the code case and return via the Status API. It will let you know if any of your code changes passed successfully, or if any errors were detected, where they are, and what they are. This then allows the developer to go back to their branch, fix any issues, and create a new push to the open pull request. At that point, the Super Linter will run again and validate the updated code and repeat the process. You can configure your branch protection rules to make sure all code must pass before being able to merge as an additional measure.
 
 **Videos to create Github Actions CI/CD Q2 Show & Tell**
 
