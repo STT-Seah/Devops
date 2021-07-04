@@ -55,14 +55,14 @@ At that point, the Super Linter will run again and validate the updated code and
 
 - [Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
 
-**Instructions**
+**Instructions*
 
   1.Create new repository and named it
-  
+
   2.Select public (if you want the public to view your project)
   
-  3. Scroll down add README file, click create repository button
-
-  4. Create a workflow, click add file button and select create a new file, be very specified to name the file, type .github/workflows/you can name your file whatever you want
+  3.Scroll down add README file, click create repository button
+  
+  4.Create a workflow, click add file button and select create a new file, be very specified to name the file, type .github/workflows/XYZ (you can name your file whatever you want)
   
   5. ssgsYMAL
