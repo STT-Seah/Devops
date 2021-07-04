@@ -70,3 +70,5 @@ At that point, the Super Linter will run again and validate the updated code and
   **Warning: if workflow is not triggering which means the format or spelling error naming the workflow file**
   
   The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to first check our code and than run superlinter against it to make sure it conforms to the linting standards.
+  
+  If there's error in the code, it will update you and send you an email that is link to your github account.
