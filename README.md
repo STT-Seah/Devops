@@ -95,3 +95,5 @@ At that point, the Super Linter will run again and validate the updated code and
   Run Super linter against it
   
   It will show the logs.
+  
+  Checkmark(tick) to show all the checks pass.(Green tick means all the workflows has passed)
