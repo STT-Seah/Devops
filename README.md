@@ -14,3 +14,5 @@ Essentially it allows us to automate the testing of our code to make sure it mee
 This can significantly reduce the time it takes for you to deliver updates your application, which allows developers to focus more of their time on the code itself.
 
 **Videos to create Github Actions CI/CD Q2 Show & Tell**
+
+-[Github Actions CI/CD - Everything you need to know to get started](https://www.youtube.com/watch?v=mFFXuXjVgkU)
