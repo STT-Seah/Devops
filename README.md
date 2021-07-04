@@ -105,3 +105,5 @@ At that point, the Super Linter will run again and validate the updated code and
   **If you have a servers monitor the Github API and check the status of the repository. If the status is green check mark, it automatically go to that repository and pull down the code to implemented into staging or production or whatever you want.**
   
   7.Push python code to run & test any error for python code
+  
+  8.Create new file (paste the python code) the file as main.py (scroll down and commit it) and let the linter run it
