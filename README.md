@@ -12,3 +12,5 @@ It's the built-in, CICD tool for GitHub, if you're unfamiliar with what CICD is 
 Essentially it allows us to automate the testing of our code to make sure it meets certain criteria after all the tests are passed you can enable actions to automate the delivery of your code.
 
 This can significantly reduce the time it takes for you to deliver updates your application, which allows developers to focus more of their time on the code itself.
+
+**Videos to create Github Actions CI/CD Q2 Show & Tell**
