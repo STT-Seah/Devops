@@ -72,3 +72,6 @@ At that point, the Super Linter will run again and validate the updated code and
   The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to first check our code and than run superlinter against it to make sure it conforms to the linting standards.
   
   If there's error in the code, it will update you and send you an email that is link to your github account.
+  
+  
+  5.Go to the main repository in the middle of the page there's status icon colour in yellow (it is currently running the workflow and checking the code. If the check fails, it's going to turn red.)
