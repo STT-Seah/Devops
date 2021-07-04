@@ -21,7 +21,7 @@ This can significantly reduce the time it takes for you to deliver updates your 
 
 
 
-### What is GitHub Super Linter?
+### What is GitHub Super Linter
 
 
 
