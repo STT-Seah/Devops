@@ -57,12 +57,13 @@ At that point, the Super Linter will run again and validate the updated code and
 
 **Instructions**
 
-  1.Create new repository and named it
+  1.Create new repository, click new and name whatever you want
 
   2.Select public (if you want the public to view your project)
   
-  3.Scroll down add README file, click create repository button
+  3.Scroll down select add a README file, click create repository button
   
-  4.Create a workflow, click add file button and select create a new file, be very specified to name the file, type .github/workflows/XYZ (you can name your file whatever you want)
+  4.Create a workflow, click add file button and select create a new file, be very specified when comes to naming the file, Type .github/workflows/XYZ(name whatever you want)
+    (Warning: if workflow is not triggering which mean the format or spelling error to name th workflow file)
   
   5.YAML
