@@ -73,5 +73,4 @@ At that point, the Super Linter will run again and validate the updated code and
   
   If there's error in the code, it will update you and send you an email linked to your github account.
   
-  
   5.YAML
