@@ -8,3 +8,5 @@ In today's fast-paced environment, it's absolutely essential that we can automat
 That's where GitHub actions comes in.
 
 It's the built-in, CICD tool for GitHub, if you're unfamiliar with what CICD is it stands for continuous integration and continuous delivery.
+
+Essentially it allows us to automate the testing of our code to make sure it meets certain criteria after all the tests are passed you can enable actions to automate the delivery of your code.
