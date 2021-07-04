@@ -67,7 +67,7 @@ At that point, the Super Linter will run again and validate the updated code and
   
   Type the proper directory in this format: .github/workflows/superlinter.yml(name whatever you want and copy and paste the code (from superlinter.yml) in the blank space to run
   
-  Warning: if workflow is not triggering which means the format or spelling error to name the workflow file
+  **Warning: if workflow is not triggering which means the format or spelling error naming the workflow file**
   
   The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to first check our code and than run superlinter against it to make sure it conforms to the linting standards.
   
