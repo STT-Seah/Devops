@@ -81,6 +81,10 @@ At that point, the Super Linter will run again and validate the updated code and
   
   When you open up you can see the process that it's on.
   
-  You can see set up job. (Doing Github Action Stuff setting up everthing up and now)
+  You can see set up job. (Doing Github Action Stuff setting up everthing up)
   
   Scroll down it will how you it is pulling the code from github superlinter (Pull ghcr.io/github/super-linter:v3.14.5)
+  
+  Once it's done. It's going to run our code in the repository and it's going to run the super linter again. (This is pretty cool it's telling you behind the scenes which code repository if pulled from.
+  
+  If you run this url: ghcr.io/github/super-linter:v3.14.5 you can see the actual code of the super linter job.
