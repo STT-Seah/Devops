@@ -99,3 +99,5 @@ At that point, the Super Linter will run again and validate the updated code and
   Checkmark(tick) to show all the checks pass.(Green tick means all the workflows has passed)
   
   ![image of Github Super Linter Log](https://user-images.githubusercontent.com/17579601/87601404-45751200-c6b2-11ea-9d5b-03014e2ce4a6.jpg)
+  
+  **This Superlinter can be use for downstream.**
