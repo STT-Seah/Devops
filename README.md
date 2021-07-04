@@ -62,3 +62,7 @@ At that point, the Super Linter will run again and validate the updated code and
   2.Select public (if you want the public to view your project)
   
   3. Scroll down add README file, click create repository button
+
+  4. Create a workflow, click add file button and select create a new file, be very specified to name the file, type .github/workflows/you can name your file whatever you want
+  
+  5. ssgsYMAL
