@@ -79,3 +79,5 @@ At that point, the Super Linter will run again and validate the updated code and
   6.You can click actions tab to see it is running the workflow and it's running super linter
   
   If you click the Lint code base and open the file you can see it is linting the code base.
+  
+  When you open up you can see the process that it's on.
