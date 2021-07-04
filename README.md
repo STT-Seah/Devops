@@ -66,7 +66,8 @@ At that point, the Super Linter will run again and validate the updated code and
   4.Create a workflow, click add file button and select create a new file, be very specified when comes to naming the file, Type .github/workflows/superlinter.yml(name whatever you want and paste the code in the blank space)Warning: if workflow is not triggering which mean the format or spelling error to name th workflow file)
   
   
-**The code below to paste for the workflow**  
+**The code below to paste for the workflow**
+---------------------------------------------
   
 name: Super-Linter
 
