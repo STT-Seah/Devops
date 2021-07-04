@@ -4,6 +4,7 @@
 ## Welcome to Fintech Learners Pages For Non Tech
 
 
+
 ![image of Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4)
 
 
@@ -20,7 +21,7 @@ This can significantly reduce the time it takes for you to deliver updates your 
 
 
 
-###What is GitHub Super Linter
+### What is GitHub Super Linter?
 
 
 ![image of Github Super Linter](https://github.blog/wp-content/uploads/2020/06/github-super-linter-white.png?w=1200)
