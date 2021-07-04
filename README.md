@@ -59,4 +59,6 @@ At that point, the Super Linter will run again and validate the updated code and
 
   1.Create new repository and named it
   
-  2.Click
+  2.Select public (if you want the public to view your project)
+  
+  3. Scroll down add README file, click create repository button
