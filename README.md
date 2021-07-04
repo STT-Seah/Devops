@@ -65,11 +65,13 @@ At that point, the Super Linter will run again and validate the updated code and
   
   4.Create a workflow, click add file button and select create new file, be very specified when comes to naming the file
   
-  Type the proper directory in this format: .github/workflows/superlinter.yml(name whatever you want and copy and paste the code (from superlinter.yml) in the blank space to run
+  Type the proper directory in this format: .github/workflows/superlinter.yml (name whatever you want and copy and paste the code (from superlinter.yml) in the blank space to run
   
   **Warning: if workflow is not triggering which means the format or spelling error naming the workflow file**
   
   The code (from superlinter.yml) paste, its purpose is to listening for a push event, when the push event happen, it's going to first check our code and than run superlinter against it to make sure it conforms to the linting standards.
+  
+  If there's error in the code, it will update you and send you an email linked to your github account.
   
   
   5.YAML
