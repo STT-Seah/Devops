@@ -58,3 +58,4 @@ At that point, the Super Linter will run again and validate the updated code and
 **Instructions**
 
   1.Create new repository, click + new and name whatever you want
+  2.Select public (if you want the public to view your project)
