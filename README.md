@@ -15,7 +15,7 @@ This can significantly reduce the time it takes for you to deliver updates your 
 
 **What is GitHub super Linter?**
 
-The Super Linter is a source code repository that is packaged into a Docker container and called by GitHub Actions.
+The Super Linter is a *source code repository* that is packaged into a Docker container and called by GitHub Actions.
 
 This allows for any repository on GitHub.com to call the Super Linter and start utilizing its benefits.
 
