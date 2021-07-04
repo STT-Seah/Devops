@@ -103,3 +103,5 @@ At that point, the Super Linter will run again and validate the updated code and
   **This Superlinter can be use for downstream.**
   
   **If you have a servers monitor the Github API and check the status of the repository. If the status is green check mark, it automatically go to that repository and pull down the code to implemented into staging or production or whatever you want.**
+  
+  7.Push python code to run & test any error for python code
