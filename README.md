@@ -63,6 +63,10 @@ At that point, the Super Linter will run again and validate the updated code and
   
   3.Scroll down select add a README file, click create repository button
   
-  4.Create a workflow, click add file button and select create new file, be very specified when comes to naming the file.Type the proper directory in this format: .github/workflows/superlinter.yml(name whatever you want and copy and paste the code in the blank space to run.Warning: if workflow is not triggering which mean the format or spelling error to name th workflow file)
+  4.Create a workflow, click add file button and select create new file, be very specified when comes to naming the file.
+  
+  Type the proper directory in this format: .github/workflows/superlinter.yml(name whatever you want and copy and paste the code in the blank space to run.
+  
+  Warning: if workflow is not triggering which mean the format or spelling error to name the workflow file)
   
   5.YAML
