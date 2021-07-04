@@ -65,27 +65,4 @@ At that point, the Super Linter will run again and validate the updated code and
   
   4.Create a workflow, click add file button and select create a new file, be very specified when comes to naming the file, Type .github/workflows/superlinter.yml(name whatever you want and paste the code in the blank space)Warning: if workflow is not triggering which mean the format or spelling error to name th workflow file)
   
-  
-**The code below to paste for the workflow**
----------------------------------------------
-  
-name: Super-Linter
-
-on: push
-
-jobs:
-  super-lint:
-    name: Lint code base
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Run Super-Linter
-        uses: github/super-linter@v3
-        env:
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  
   5.YAML
