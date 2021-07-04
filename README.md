@@ -3,6 +3,10 @@
 
 ## Welcome to Fintech Learners Pages For Non Tech
 
+![image of Github Actions](https://avatars.githubusercontent.com/u/44036562?s=200&v=4)
+
+Github Actions CI/CD - Everything you need to know to get started
+
 In today's fast-paced environment, it's absolutely essential that we can automate the testing and delivery of our code.
 
 That's where GitHub actions comes in.
