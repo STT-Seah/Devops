@@ -77,3 +77,5 @@ At that point, the Super Linter will run again and validate the updated code and
   5.Go to the main repository in the middle of the page there's status icon colour in yellow (it is currently running the workflow and checking the code. If the check fails, it's going to turn red.)
   
   6.You can click actions tab to see it is running the workflow and it's running super linter
+  
+  If you click the Lint code base and open the file you can see it is linting the code base.
