@@ -65,4 +65,4 @@ At that point, the Super Linter will run again and validate the updated code and
   
   4.Create a workflow, click add file button and select create a new file, be very specified to name the file, type .github/workflows/XYZ (you can name your file whatever you want)
   
-  5. ssgsYMAL
+  5. YAML
