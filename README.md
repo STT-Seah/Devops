@@ -128,7 +128,7 @@ At that point, the Super Linter will run again and validate the updated code and
     
    7.Scroll down to github pages sections to get the url and the github pages sites is ready instantly
     
-   8.Go back to the repository and select README.md
+   8.Go back to the repository and select README.md **Start this step from here to edit github pages and ignore step 1 to 7**
     
    9.To overwrite create new file
     
