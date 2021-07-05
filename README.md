@@ -147,9 +147,8 @@ At that point, the Super Linter will run again and validate the updated code and
   
   17.[How to write markdown](https://guides.github.com/features/mastering-markdown/)
   
+  **Related Videos to create Github Pages Website Q2 Show & Tell**
   
-   **Related Videos to create Github Pages Website Q2 Show & Tell**
-   
-   - [Create Your First GitHub Pages Website](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
-   
-   - [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg)
+  - [Create Your First GitHub Pages Website](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
+  
+  - [Learning GitHub - How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg)
