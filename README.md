@@ -146,3 +146,6 @@ At that point, the Super Linter will run again and validate the updated code and
   16.config.yml file will reflect the theme of the design of this website
   
   17.[How to write markdown](https://guides.github.com/features/mastering-markdown/)
+  
+  
+   **Related Articles/ Videos to create Github Pages Website Q2 Show & Tell**
